@@ -1,4 +1,3 @@
-package Examen;
 import java.util.Scanner;
 
 public class Examen {
